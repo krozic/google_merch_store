@@ -1,0 +1,5 @@
+/.idea/
+/venv/
+/tables/
+packages.txt
+bigquerry_tables.py
